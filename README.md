@@ -14,9 +14,7 @@ This Python script allows two people to communicate using a unique secret langua
 
 ## Usage
 1. Run the script:
-   ```sh
-   python secret_language.py
-   ```
+
 2. Choose an option:
    - `e` to encrypt a message.
    - `d` to decrypt a message.
